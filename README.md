@@ -1,2 +1,2 @@
-# Malik
-My personal repository
+# About me
+
